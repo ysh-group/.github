@@ -14,7 +14,7 @@ We've streamlined the process of joining our community. **You can register autom
 
 ### How to Register
 
-1. **Go to** [Issues in this repository](https://github.com/ysh-group/.github/issues)
+1. **Go to** [Issues in this repository](https://github.com/ysh-group/collaboration)
 2. **Click** "New issue"
 3. **Use this template** for the issue title and description:
 
