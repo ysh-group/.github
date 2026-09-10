@@ -1,4 +1,4 @@
-# YSH Group — a community for better health and better research
+# YSH IT Nexus — a community for better health and better research
 
 We are a community building practical healthcare platforms and research tools that help people live healthier, longer, and more capable lives. Our purpose is to bring together people, scientists, clinicians, engineers, institutions, and AI systems so useful questions and ideas can be turned into trusted knowledge, responsible research, and real-world impact.
 
